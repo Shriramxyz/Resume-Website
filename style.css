@@ -79,7 +79,7 @@ body{
 }
 
 .project-description{
-
+    text-justify: distribute;
 }
 
 .info-title{
